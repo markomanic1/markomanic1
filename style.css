@@ -1,0 +1,43 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+p {
+    border: solid red;
+    padding: 20px;
+    margin: 30px;
+}
+#demo{
+    background: orange;
+    color: #fff;
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+    border: 20px solid black;
+    padding: 30px;
+
+}
+.demos{
+    background: purple;
+    color: #fff;
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+    border: 20px solid black;
+    padding: 30px;
+}
+#meni li {
+    display: inline;
+}
+#meni li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px;
+    border: 1px;
+}
+#meni li a:hover {
+    background-color: aqua;
+}
+
+
